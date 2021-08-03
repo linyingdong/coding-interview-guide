@@ -1,9 +1,3 @@
-#程序员代码面试指南
-
-#第一章 栈和队列
-##设计一个有getMin功能的栈
-要求：设计pop、push、getMin函数
-```java
 package c1_stack_queue;
 
 import java.util.Stack;
@@ -62,5 +56,3 @@ public class C1P1MinStack {
         }
     }
 }
-```
-
